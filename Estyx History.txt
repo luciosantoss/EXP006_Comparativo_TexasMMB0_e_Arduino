@@ -1,0 +1,98 @@
+Read from /version	value 0.2.31	length 6	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch1set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch2set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch3set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch4set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch5set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch6set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch7set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/ch8set	value 0x1	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/config1	value 0x86	length 4	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/config2	value 0x10	length 4	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/config3	value 0xDC	length 4	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/devid	value 0x92	length 4	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/gpio	value 0x0	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/loff	value 0x3	length 3	with an error code of 0->13:56:58
+Read from /ads1298evm/conf/loffflip	value 0x0	length 3	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/loffsensn	value 0x2	length 3	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/loffsensp	value 0xFF	length 4	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/loffstatn	value 0x34	length 4	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/loffstatp	value 0x68	length 4	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/pace	value 0x0	length 3	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/resp	value 0xF0	length 4	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/rldsensn	value 0x0	length 3	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/rldsensp	value 0x0	length 3	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/reset	value 0	length 1	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/sleep	value 0	length 1	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/config4	value 0x22	length 4	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/wct1	value 0xA	length 3	with an error code of 0->13:56:59
+Read from /ads1298evm/conf/wct2	value 0xE3	length 4	with an error code of 0->13:56:59
+Wrote to /ads1298evm/data	value 0	length 0	with an error code of 0 ->13:58:35
+Wrote to /ads1298evm/blocksize_samples	value 9000	length 4	with an error code of 0 ->13:58:35
+Wrote to /ads1298evm/acquire	value 1	length 1	with an error code of 0 ->13:58:35
+Read from /ads1298evm/acquire	value 1	length 1	with an error code of 0->13:58:37
+Read from /ads1298evm/acquire	value 0	length 1	with an error code of 0->13:58:38
+Wrote to /ads1298evm/data	value 0	length 0	with an error code of 0 ->13:58:40
+Wrote to /ads1298evm/acquire	value 0	length 1	with an error code of 0 ->13:58:40
+Wrote to /ads1298evm/data	value 0	length 0	with an error code of 0 ->14:06:30
+Wrote to /ads1298evm/blocksize_samples	value 225000	length 6	with an error code of 0 ->14:06:30
+Wrote to /ads1298evm/acquire	value 1	length 1	with an error code of 0 ->14:06:30
+Read from /ads1298evm/acquire	value 0	length 1	with an error code of 0->14:07:20
+Wrote to /ads1298evm/data	value 0	length 0	with an error code of 0 ->14:07:26
+Wrote to /ads1298evm/acquire	value 0	length 1	with an error code of 0 ->14:07:26
+Read from /ads1298evm/conf/ch1set	value 0x1	length 3	with an error code of 0->14:21:40
+Read from /ads1298evm/conf/ch2set	value 0x1	length 3	with an error code of 0->14:21:40
+Read from /ads1298evm/conf/ch3set	value 0x1	length 3	with an error code of 0->14:21:40
+Read from /ads1298evm/conf/ch4set	value 0x1	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/ch5set	value 0x1	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/ch6set	value 0x1	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/ch7set	value 0x1	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/ch8set	value 0x1	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/config1	value 0x86	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/config2	value 0x10	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/config3	value 0xDC	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/devid	value 0x92	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/gpio	value 0x0	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/loff	value 0x3	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/loffflip	value 0x0	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/loffsensn	value 0x2	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/loffsensp	value 0xFF	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/loffstatn	value 0x34	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/loffstatp	value 0x68	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/pace	value 0x0	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/resp	value 0xF0	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/rldsensn	value 0x0	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/rldsensp	value 0x0	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/reset	value 0	length 1	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/sleep	value 0	length 1	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/config4	value 0x22	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/wct1	value 0xA	length 3	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/wct2	value 0xE3	length 4	with an error code of 0->14:21:48
+Read from /ads1298evm/conf/ch1set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/ch2set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/ch3set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/ch4set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/ch5set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/ch6set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/ch7set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/ch8set	value 0x1	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/config1	value 0x86	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/config2	value 0x10	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/config3	value 0xDC	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/devid	value 0x92	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/gpio	value 0x0	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/loff	value 0x3	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/loffflip	value 0x0	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/loffsensn	value 0x2	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/loffsensp	value 0xFF	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/loffstatn	value 0x34	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/loffstatp	value 0x68	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/pace	value 0x0	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/resp	value 0xF0	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/rldsensn	value 0x0	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/rldsensp	value 0x0	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/reset	value 0	length 1	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/sleep	value 0	length 1	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/config4	value 0x22	length 4	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/wct1	value 0xA	length 3	with an error code of 0->14:23:19
+Read from /ads1298evm/conf/wct2	value 0xE3	length 4	with an error code of 0->14:23:19
