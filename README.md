@@ -1,4 +1,5 @@
-# EXP006_Comparativo_TexasMMB0_e_Arduino
+# 2019-06 [EXP006] Arduino - Comparativo Texas MMB0 e Arduino (para o artigo de SAT)
+https://drive.google.com/drive/folders/1vn4mezwdWgBG5_DwRlC76U8B0zuIuy59?usp=sharing
 
 Planilha: 2019-06-26 11h00 Plot00
 https://docs.google.com/spreadsheets/d/1mD9EoNCyWXnUjQId8E43_OtMtaVoLIwqKGVHk2AAYjI/edit?usp=sharing
